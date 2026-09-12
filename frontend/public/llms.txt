@@ -1,0 +1,26 @@
+# Hamid Hair Studio — سالن تخصصی مو حامد عباسی
+
+## About
+Premium hair salon in Tehran, Iran. Run by Hamid Abbasi (حامد عباسی), a hair artist with 10+ years of experience serving both men and women.
+
+## Services
+- Men: Classic haircut, Fade, Beard trim, Hair color, Full grooming
+- Women: Haircut, Hair color & highlights (Balayage), Keratin treatment, Styling, Hair braiding
+
+## Booking
+Customers can book appointments online through the app. The system shows real-time availability based on working hours, breaks, and existing bookings.
+
+## Contact
+- Phone: 09121234567
+- Email: hamid.studio@gmail.com
+- Address: Tehran, Main Boulevard #100
+- Working hours: Saturday-Thursday 10:00-20:00, Friday closed
+- Lunch break: 13:00-14:00
+
+## Pages
+- Home: /#home
+- Services: /#services
+- Gallery: /#gallery
+- Booking: /#booking
+- About: /#about
+- Admin Panel: /#admin
